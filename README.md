@@ -8,6 +8,21 @@ It's not meant to be an exhaustive list, but it's a great place to start if you'
 
 🙏 **Want to add questions/resources? Fill out [this form](https://airtable.com/shrQ50QnG7ZPTV6Ag)!** 🙏
 
+---
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?&utm_medium=swe_guide">
+			<b>Applying to SWE jobs or internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450"  alt="Simplify">
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill online job applications on millions of sites.</i></sub>
+	</p>
+</div>
 
 ---
 
