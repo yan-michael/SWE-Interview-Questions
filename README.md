@@ -1,4 +1,4 @@
-# SWE Interview Questions 💻 🚀
+# Software Engineer Interview Questions 💻 🚀
 
 👋 Hi, I'm [Michael](https://www.linkedin.com/in/myan/)! I put together this interview guide with questions and resources I encountered over the course of 50+ technical interviews at companies anywhere from startups to FAANG to hedge funds. 
 
