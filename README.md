@@ -6,7 +6,7 @@ It's not meant to be an exhaustive list, but it's a great place to start if you'
 
 **📢 Big shoutout to everyone who contributed questions & resources!! 📢**
 
-🙏 **Want to add questions/resources? Fill out [this form](https://airtable.com/shrQ50QnG7ZPTV6Ag)!** 🙏
+🙏 **Want to add questions/resources? Make a PR!** 🙏
 
 ---
 
